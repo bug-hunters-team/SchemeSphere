@@ -1,0 +1,14 @@
+{
+  "name": "schemesphere-root",
+  "version": "1.0.0",
+  "description": "SchemeSphere - AI-Powered Government Scheme Finder",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "frontend": "npm run dev --prefix frontend",
+    "backend": "npm start --prefix backend",
+    "start": "npm start --prefix backend",
+    "test": "npm test --prefix backend",
+    "build": "npm run build --prefix frontend"
+  }
+}
