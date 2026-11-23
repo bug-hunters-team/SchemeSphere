@@ -20,3 +20,4 @@ build/
 # Editor files
 .vscode/
 .idea/backend/data/users.json
+/backend/data/users.json
